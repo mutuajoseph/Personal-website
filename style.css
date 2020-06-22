@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Josefin+Sans:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@500&display=swap');
+
+.section1{
+    height: 600px;
+}
+
+.section2{
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, rgba(161,200,204,1) 0%, rgba(221,184,231,1) 50%, rgba(255,0,198,0.6671043417366946) 100%);;
+}
+
+.award-section{
+    background: linear-gradient(0deg, rgba(140,137,137,0.05646008403361347) 100%, rgba(174,34,195,0) 100%);
+    height: 500px;
+}
+
+.award-header{
+    height: 100px;
+}
+
+.award-content{
+    margin-top: 10px;
+}
+
+.background-section{
+    height: 400px;
+}
+
+.background-header{
+    height: 100px;
+}
+
+.background-content{
+}
+
+.container-content{
+   
+}
+
+.follow-section{
+    height: 350px;
+    background: linear-gradient(0deg, rgba(34,135,195,0.8995973389355743) 0%, rgba(45,253,233,1) 100%);;
+}
+
+.header-column1{
+    margin: auto;
+    width: 600px;
+}
+
+.header-column2{
+    margin: auto;
+    width: 400px;
+    height: 500px;
+}
+
+.my-row{
+    height: 400px;
+}
+
+.work{
+    text-align: center; 
+    margin-top: 5px; 
+    margin-bottom: 10px;
+}
+
+.awards{
+    margin-top: 5px; 
+    margin-bottom: 10px;
+}
+
+.background{
+    margin-top: 5px; 
+    margin-bottom: 10px;
+}
+
+.contact{
+    text-align: center;
+    margin-top: 5px; 
+}
+
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
+
+li{
+    font-size: 16px;
+}
+
+ul{
+    padding-left: 20%;
+    padding-right: 10%;
+}
+
+.send-btn{
+    border: 2px solid black;
+    border-radius: 70px;
+    padding: 20px;
+    width: 150%;
+}
+
+button:hover{
+    background-color: black;
+}
+
+
+.center-block{
+    display: table;
+    margin-left: 70px;
+    margin-right: auto;
+}
+
+.center-block2{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.works-header{
+    height: 100px;
+}
+
+.card{
+    outline: none;
+}
+
+.name{
+    font-size: 100px;
+    font-family: 'Chewy', cursive;
+}
+
+.name2{
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+}
+
+.submit-btn{
+    border: 2px solid black;
+    border-radius: 15px;
+}
